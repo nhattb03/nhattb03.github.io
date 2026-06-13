@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion'
 import { MapPin, Download, ArrowRight } from 'lucide-react'
 import LedgerLine from './LedgerLine'
+import ProfilePhoto from './ProfilePhoto'
 import { useReducedMotion } from '../hooks/useReducedMotion'
 import { useLanguage } from '../contexts/LanguageContext'
 
@@ -40,9 +41,9 @@ export default function Hero() {
       className="min-h-screen flex items-center pt-16"
       style={{ backgroundColor: 'var(--bg)' }}
     >
-      <div className="max-w-content mx-auto px-6 md:px-12 py-16 md:py-20 w-full">
+      <div className="max-w-content mx-auto px-6 md:px-12 py-16 md:py-20 w-full flex flex-col-reverse md:flex-row md:items-center justify-between gap-12 md:gap-16">
         <motion.div
-          className="max-w-3xl"
+          className="max-w-2xl flex-1"
           {...motionProps}
         >
           {/* Location chip */}
@@ -156,6 +157,16 @@ export default function Hero() {
               {t.hero.downloadCV}
             </a>
           </motion.div>
+        </motion.div>
+
+        {/* Profile Image Column */}
+        <motion.div 
+          className="w-[240px] md:w-full md:max-w-[380px] shrink-0"
+          initial={prefersReduced ? "visible" : "hidden"}
+          animate="visible"
+          variants={itemVariants}
+        >
+          <ProfilePhoto />
         </motion.div>
       </div>
     </section>
