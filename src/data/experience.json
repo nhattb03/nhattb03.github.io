@@ -1,0 +1,26 @@
+[
+  {
+    "id": "toan-cau",
+    "role": "Sales Administrator",
+    "company": "Toan Cau Information Technology Co., Ltd.",
+    "dates": "Apr 2025 – May 2026",
+    "location": "Ho Chi Minh City",
+    "bullets": [
+      "Managed the end-to-end sales cycle on the internal CRM system, from inquiry intake to deal closing, ensuring smooth cross-departmental coordination.",
+      "Maintained the quotations and contracts database, ensuring consistency and accuracy across departments for invoicing and sales planning.",
+      "Processed transaction and customer data to improve operational efficiency and tracked contract execution progress."
+    ]
+  },
+  {
+    "id": "mb-bank",
+    "role": "Relationship Management Associate (Trainee) — SME Banking",
+    "company": "Military Commercial Joint Stock Bank (MB Bank)",
+    "dates": "Aug 2024 – Feb 2025",
+    "location": "Ho Chi Minh City",
+    "bullets": [
+      "Handled account opening, maintenance, and daily transaction processing for SME clients, ensuring accurate and professional servicing.",
+      "Prepared credit proposals, loan applications, and collateral documentation, supporting the end-to-end credit approval workflow.",
+      "Coordinated with Relationship Managers on portfolio management and proactive client follow-ups."
+    ]
+  }
+]

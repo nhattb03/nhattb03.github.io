@@ -1,0 +1,34 @@
+{
+  "groups": [
+    {
+      "id": "operations",
+      "label": "Vận hành",
+      "skills": [
+        "Xử lý Giao dịch",
+        "Chứng từ Tín dụng",
+        "Đối chiếu Tài khoản",
+        "Quản lý Hợp đồng & Báo giá",
+        "Hệ thống CRM"
+      ]
+    },
+    {
+      "id": "analytical",
+      "label": "Phân tích",
+      "skills": [
+        "Mô hình Tài chính (DCF/FCFF)",
+        "Phân tích Báo cáo Tài chính",
+        "Hồi quy Dữ liệu Mảng",
+        "Theo dõi KPI"
+      ]
+    },
+    {
+      "id": "tools",
+      "label": "Công cụ",
+      "skills": [
+        "Microsoft Excel",
+        "Nền tảng CRM",
+        "Stata"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "dcf-hsg",
+    "title": "Định giá Cổ phiếu DCF — Ngành Thép & Vật liệu Xây dựng (HOSE)",
+    "category": "Financial Modeling",
+    "tools": ["DCF/FCFF", "CAPM", "Excel Nâng cao"],
+    "description": "Xây dựng mô hình chiết khấu dòng tiền (DCF) hoàn chỉnh cho Tập đoàn Hoa Sen (HSG) trong khuôn khổ môn Phân tích Đầu tư Ngân hàng.",
+    "result": "Đưa ra giá cổ phiếu mục tiêu kèm phân tích độ nhạy theo các kịch bản WACC và tốc độ tăng trưởng; ước tính Beta từ lợi suất hàng tuần so với VN-Index.",
+    "image": "/projects/dcf-hsg.png"
+  },
+  {
+    "id": "ceo-roa",
+    "title": "Nghiên cứu Đặc điểm CEO & Hiệu quả Hoạt động trên HOSE",
+    "category": "Research",
+    "tools": ["Hồi quy Dữ liệu Mảng", "Stata", "OLS/FEM/REM/GLS"],
+    "description": "Đồng tác giả nghiên cứu cấp đại học về ảnh hưởng của 6 đặc điểm CEO đến ROA của 141 doanh nghiệp phi tài chính niêm yết trên HOSE (2015–2023, 1.269 quan sát).",
+    "result": "Dẫn dắt việc thu thập dữ liệu từ báo cáo tài chính/thường niên và xử lý thống kê; kết quả cho thấy tỷ lệ sở hữu và giới tính CEO có tương quan dương với ROA.",
+    "image": "/projects/ceo-roa.png"
+  },
+  {
+    "id": "crm-ops",
+    "title": "Vận hành Bán hàng CRM & Quản lý Cơ sở Dữ liệu Hợp đồng",
+    "category": "Operations",
+    "tools": ["Hệ thống CRM", "Excel", "Điều phối Quy trình"],
+    "description": "Phụ trách toàn trình quy trình quản trị bán hàng tại Toan Cau IT — quản lý dữ liệu CRM, báo giá và theo dõi tiến độ hợp đồng.",
+    "result": "Đảm bảo tính nhất quán của dữ liệu giữa các phòng ban, nâng cao hiệu suất vận hành trong xuất hóa đơn và lập kế hoạch kinh doanh.",
+    "image": "/projects/crm-ops.png"
+  },
+  {
+    "id": "credit-ops",
+    "title": "Chứng từ Tín dụng & Xử lý Giao dịch SME",
+    "category": "Operations",
+    "tools": ["Vận hành Ngân hàng", "Hồ sơ Tín dụng", "Dịch vụ Tài khoản"],
+    "description": "Hỗ trợ quy trình phê duyệt tín dụng SME tại MB Bank — lập tờ trình, hồ sơ vay vốn, tài liệu tài sản đảm bảo và giao dịch hàng ngày.",
+    "result": "Cung cấp hồ sơ chính xác, chuẩn kiểm toán, hỗ trợ cho các quyết định tín dụng toàn trình.",
+    "image": "/projects/credit-ops.png"
+  }
+]

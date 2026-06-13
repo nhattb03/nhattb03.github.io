@@ -1,0 +1,26 @@
+[
+  {
+    "id": "toan-cau",
+    "role": "Chuyên viên Quản trị Bán hàng",
+    "company": "Công ty TNHH Công nghệ Thông tin Toàn Cầu",
+    "dates": "Tháng 4, 2025 – Tháng 5, 2026",
+    "location": "TP. Hồ Chí Minh",
+    "bullets": [
+      "Quản lý toàn bộ chu trình bán hàng trên hệ thống CRM nội bộ, từ tiếp nhận yêu cầu đến chốt hợp đồng, đảm bảo phối hợp trơn tru giữa các phòng ban.",
+      "Quản trị cơ sở dữ liệu báo giá và hợp đồng, đảm bảo tính nhất quán và chính xác cho mục đích xuất hóa đơn và lập kế hoạch kinh doanh.",
+      "Xử lý dữ liệu giao dịch và khách hàng nhằm cải thiện hiệu quả vận hành và theo dõi tiến độ thực hiện hợp đồng."
+    ]
+  },
+  {
+    "id": "mb-bank",
+    "role": "Thực tập sinh Quản lý Quan hệ Khách hàng — SME Banking",
+    "company": "Ngân hàng TMCP Quân Đội (MB Bank)",
+    "dates": "Tháng 8, 2024 – Tháng 2, 2025",
+    "location": "TP. Hồ Chí Minh",
+    "bullets": [
+      "Xử lý hồ sơ mở mới, duy trì tài khoản và các giao dịch hàng ngày cho khách hàng doanh nghiệp SME, đảm bảo dịch vụ chính xác và chuyên nghiệp.",
+      "Lập tờ trình tín dụng, hồ sơ vay vốn và chứng từ tài sản đảm bảo, hỗ trợ quy trình phê duyệt tín dụng toàn trình.",
+      "Phối hợp với Chuyên viên Quản lý Khách hàng trong việc quản lý danh mục và chủ động theo dõi khách hàng."
+    ]
+  }
+]

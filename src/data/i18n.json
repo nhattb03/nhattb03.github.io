@@ -1,0 +1,122 @@
+{
+  "en": {
+    "nav": {
+      "about": "About",
+      "experience": "Experience",
+      "projects": "Projects",
+      "skills": "Skills",
+      "contact": "Contact"
+    },
+    "hero": {
+      "location": "Ho Chi Minh City, Vietnam",
+      "title": "Tran Thi Bich Nha",
+      "subtitle": "Finance · Operations & Analysis",
+      "thesis": "I turn financial detail into reliable operations — accurate transactions, clean records, sound decisions.",
+      "getInTouch": "Get in touch",
+      "downloadCV": "Download CV",
+      "cvLink": "/CV_NhaTran_EN.pdf"
+    },
+    "about": {
+      "sectionLabel": "About",
+      "heading": "Who I am",
+      "bio1": "I'm a Banking & Finance graduate from Ho Chi Minh City Open University, drawn to the operational side of finance — where accuracy, structured processes, and clean data keep a business running.",
+      "bio2": "My experience spans SME banking operations at MB Bank — handling transactions, credit documentation, and account servicing — and end-to-end sales administration on CRM systems at Toan Cau IT. Alongside, I've built financial models and conducted quantitative research, including DCF equity valuation and panel-data analysis of 141 listed firms.",
+      "bio3": "I'm now focused on finance roles where reliable execution and attention to detail create real business value.",
+      "glanceHeading": "At a glance",
+      "addPhoto": "Add your photo",
+      "replacePhoto": "Replace"
+    },
+    "experience": {
+      "sectionLabel": "Experience",
+      "heading": "Where I've worked"
+    },
+    "projects": {
+      "sectionLabel": "Projects",
+      "heading": "Selected work",
+      "categories": {
+        "All": "All",
+        "Financial Modeling": "Financial Modeling",
+        "Research": "Research",
+        "Operations": "Operations"
+      },
+      "resultLabel": "Result: ",
+      "imageReplaceText": "Project images can be replaced in "
+    },
+    "skills": {
+      "sectionLabel": "Skills",
+      "heading": "Capabilities"
+    },
+    "contact": {
+      "sectionLabel": "Contact",
+      "heading": "Let's connect",
+      "message": "Open to finance roles in Ho Chi Minh City. Feel free to reach out via email or LinkedIn — I'm happy to connect.",
+      "emailLabel": "Email",
+      "linkedinLabel": "LinkedIn",
+      "locationLabel": "Location",
+      "locationValue": "Ho Chi Minh City, Vietnam"
+    },
+    "footer": {
+      "copyright": "© 2026 Nha Tran. All rights reserved."
+    }
+  },
+  "vi": {
+    "nav": {
+      "about": "Giới thiệu",
+      "experience": "Kinh nghiệm",
+      "projects": "Dự án",
+      "skills": "Kỹ năng",
+      "contact": "Liên hệ"
+    },
+    "hero": {
+      "location": "TP. Hồ Chí Minh, Việt Nam",
+      "title": "Trần Thị Bích Nhã",
+      "subtitle": "Tài chính · Vận hành & Phân tích",
+      "thesis": "Tôi biến các chi tiết tài chính thành quy trình vận hành tin cậy — giao dịch chính xác, hồ sơ minh bạch, quyết định vững chắc.",
+      "getInTouch": "Liên hệ",
+      "downloadCV": "Tải CV",
+      "cvLink": "/CV_NhaTran_VI.pdf"
+    },
+    "about": {
+      "sectionLabel": "Giới thiệu",
+      "heading": "Về tôi",
+      "bio1": "Tôi tốt nghiệp ngành Tài chính Ngân hàng tại Đại học Mở TP.HCM, đam mê mảng vận hành tài chính — nơi sự chính xác, quy trình chuẩn mực và dữ liệu sạch giúp duy trì hoạt động kinh doanh.",
+      "bio2": "Kinh nghiệm của tôi trải dài từ vận hành tín dụng SME tại MB Bank — xử lý giao dịch, hồ sơ tín dụng, dịch vụ tài khoản — đến quản lý toàn trình quy trình bán hàng trên hệ thống CRM tại Toan Cau IT. Bên cạnh đó, tôi đã xây dựng các mô hình tài chính và thực hiện nghiên cứu định lượng, bao gồm định giá cổ phiếu bằng DCF và phân tích dữ liệu mảng của 141 doanh nghiệp niêm yết.",
+      "bio3": "Hiện tại, tôi tập trung vào các vị trí trong lĩnh vực tài chính nơi khả năng thực thi đáng tin cậy và sự chú ý đến chi tiết có thể tạo ra giá trị thực sự cho doanh nghiệp.",
+      "glanceHeading": "Thông tin nhanh",
+      "addPhoto": "Thêm ảnh",
+      "replacePhoto": "Thay thế"
+    },
+    "experience": {
+      "sectionLabel": "Kinh nghiệm",
+      "heading": "Nơi tôi làm việc"
+    },
+    "projects": {
+      "sectionLabel": "Dự án",
+      "heading": "Công việc tiêu biểu",
+      "categories": {
+        "All": "Tất cả",
+        "Financial Modeling": "Mô hình Tài chính",
+        "Research": "Nghiên cứu",
+        "Operations": "Vận hành"
+      },
+      "resultLabel": "Kết quả: ",
+      "imageReplaceText": "Có thể thay thế ảnh dự án trong "
+    },
+    "skills": {
+      "sectionLabel": "Kỹ năng",
+      "heading": "Năng lực chuyên môn"
+    },
+    "contact": {
+      "sectionLabel": "Liên hệ",
+      "heading": "Kết nối với tôi",
+      "message": "Tôi đang tìm kiếm các cơ hội việc làm trong lĩnh vực tài chính tại TP. Hồ Chí Minh. Đừng ngần ngại liên hệ qua email hoặc LinkedIn — tôi rất vui được kết nối.",
+      "emailLabel": "Email",
+      "linkedinLabel": "LinkedIn",
+      "locationLabel": "Địa điểm",
+      "locationValue": "TP. Hồ Chí Minh, Việt Nam"
+    },
+    "footer": {
+      "copyright": "© 2026 Nha Tran. Mọi quyền được bảo lưu."
+    }
+  }
+}

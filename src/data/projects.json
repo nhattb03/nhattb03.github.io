@@ -1,0 +1,38 @@
+[
+  {
+    "id": "dcf-hsg",
+    "title": "DCF Equity Valuation — Steel & Construction Materials (HOSE)",
+    "category": "Financial Modeling",
+    "tools": ["DCF/FCFF", "CAPM", "Advanced Excel"],
+    "description": "Built a full discounted cash flow model for HSG (Hoa Sen Group) as part of an Investment Banking Analysis course.",
+    "result": "Derived implied share price with sensitivity analysis across WACC and growth scenarios; Beta estimated from weekly returns vs VN-Index.",
+    "image": "/projects/dcf-hsg.png"
+  },
+  {
+    "id": "ceo-roa",
+    "title": "CEO Characteristics & Firm Performance on HOSE",
+    "category": "Research",
+    "tools": ["Panel Data Regression", "Stata", "OLS/FEM/REM/GLS"],
+    "description": "Co-authored university research on how six CEO attributes affect firm ROA across 141 non-financial HOSE-listed firms (2015–2023, 1,269 observations).",
+    "result": "Led data collection from financial & annual reports and statistical processing; found CEO ownership and gender positively associated with ROA.",
+    "image": "/projects/ceo-roa.png"
+  },
+  {
+    "id": "crm-ops",
+    "title": "CRM Sales Operations & Contract Database",
+    "category": "Operations",
+    "tools": ["CRM Systems", "Excel", "Process Coordination"],
+    "description": "Owned the end-to-end sales administration workflow at Toan Cau IT — CRM data, quotations, and contract tracking.",
+    "result": "Maintained data consistency across departments and improved operational efficiency in invoicing and sales planning.",
+    "image": "/projects/crm-ops.png"
+  },
+  {
+    "id": "credit-ops",
+    "title": "SME Credit Documentation & Transaction Processing",
+    "category": "Operations",
+    "tools": ["Banking Ops", "Credit Documentation", "Account Servicing"],
+    "description": "Supported the SME credit approval workflow at MB Bank — proposals, loan applications, collateral docs, and daily transactions.",
+    "result": "Delivered accurate, audit-ready documentation supporting end-to-end credit decisions.",
+    "image": "/projects/credit-ops.png"
+  }
+]

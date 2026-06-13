@@ -1,0 +1,34 @@
+{
+  "groups": [
+    {
+      "id": "operations",
+      "label": "Operations",
+      "skills": [
+        "Transaction Processing",
+        "Credit Documentation",
+        "Account Reconciliation",
+        "Contract & Quotation Management",
+        "CRM Systems"
+      ]
+    },
+    {
+      "id": "analytical",
+      "label": "Analytical",
+      "skills": [
+        "Financial Modeling (DCF/FCFF)",
+        "Financial Statement Analysis",
+        "Panel Data Regression",
+        "KPI Tracking"
+      ]
+    },
+    {
+      "id": "tools",
+      "label": "Tools",
+      "skills": [
+        "Microsoft Excel",
+        "CRM Platforms",
+        "Stata"
+      ]
+    }
+  ]
+}
