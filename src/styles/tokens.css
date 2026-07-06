@@ -1,50 +1,71 @@
 /* ============================================================
-   TOKEN SYSTEM — Nha Tran Portfolio
-   Palette: Warm Sand + Navy (Solarized-inspired, professional)
+   TOKEN SYSTEM — Nha Tran Portfolio (Editorial Redesign)
+   Palette: Warm Paper + Ink + Navy · Gold hairline accent
    ============================================================ */
 
 /* --- Light Mode (default) --- */
 :root {
-  --bg:           #FAF8F4;   /* kem nhạt, warm */
-  --surface:      #FFFFFF;
-  --ink:          #1F2937;   /* near-black warm */
-  --muted:        #6B7280;
-  --accent:       #1E3A5F;   /* navy đậm */
-  --accent-deep:  #142840;
-  --line:         #ECE7DE;   /* warm hairline */
-  --success:      #2D6A4F;   /* warm green */
+  --bg:            #F6F2EA;
+  --bg-tint:       #EFE9DD;
+  --surface:       #FFFDF9;
+  --surface-2:     #FBF7F0;
 
-  /* Accent variants */
-  --accent-rgb:   30, 58, 95;
-  --accent-10:    rgba(30, 58, 95, 0.08);
-  --accent-20:    rgba(30, 58, 95, 0.18);
+  --ink:           #1B1712;
+  --ink-soft:      #3A342C;
+  --muted:         #736A5C;
+  --faint:         #A79E8E;
+
+  --accent:        #1E3A5F;
+  --accent-deep:   #142840;
+  --gold:          #A67C3D;
+  --gold-soft:     #C79A56;
+  --success:       #2D6A4F;
+
+  --line:          #E4DCCD;
+  --line-strong:   #D6CBB6;
+  --shadow-sm:     0 1px 2px rgba(27, 23, 18, 0.04);
+  --shadow-md:     0 10px 30px -12px rgba(27, 23, 18, 0.14);
+  --shadow-lg:     0 24px 60px -20px rgba(27, 23, 18, 0.20);
+
+  --accent-rgb:    30, 58, 95;
+  --accent-10:     rgba(30, 58, 95, 0.07);
+  --accent-20:     rgba(30, 58, 95, 0.16);
+  --gold-10:       rgba(166, 124, 61, 0.10);
+  --gold-20:       rgba(166, 124, 61, 0.22);
 }
 
-/* --- Dark Mode (class-toggled) --- */
-/* Warm dark: không xanh lạnh, giữ tông ấm */
+/* --- Dark Mode --- */
 .dark {
-  --bg:           #1C1917;   /* warm almost-black */
-  --surface:      #28231E;   /* warm dark surface */
-  --ink:          #EDE8E0;   /* warm white */
-  --muted:        #9E978C;   /* warm muted */
-  --line:         #3A332B;   /* warm separator */
-  --accent:       #6B9FD4;   /* lighter navy for readability */
-  --accent-deep:  #4A7BAD;
-  --success:      #52B788;
+  --bg:            #17140F;
+  --bg-tint:       #1E1A14;
+  --surface:       #221D16;
+  --surface-2:     #2A241B;
 
-  --accent-rgb:   107, 159, 212;
-  --accent-10:    rgba(107, 159, 212, 0.10);
-  --accent-20:    rgba(107, 159, 212, 0.20);
+  --ink:           #F0EADD;
+  --ink-soft:      #E2DACB;
+  --muted:         #A79C89;
+  --faint:         #756B58;
+
+  --accent:        #7FB0DE;
+  --accent-deep:   #5C93C4;
+  --gold:          #D4A860;
+  --gold-soft:     #E1BC7F;
+  --success:       #5AC08E;
+
+  --line:          #342D22;
+  --line-strong:   #453C2D;
+  --shadow-sm:     0 1px 2px rgba(0, 0, 0, 0.30);
+  --shadow-md:     0 12px 32px -12px rgba(0, 0, 0, 0.55);
+  --shadow-lg:     0 26px 64px -20px rgba(0, 0, 0, 0.65);
+
+  --accent-rgb:    127, 176, 222;
+  --accent-10:     rgba(127, 176, 222, 0.10);
+  --accent-20:     rgba(127, 176, 222, 0.20);
+  --gold-10:       rgba(212, 168, 96, 0.12);
+  --gold-20:       rgba(212, 168, 96, 0.24);
 }
 
-/* --- Scroll-triggered fade-up keyframe (CSS fallback) --- */
 @keyframes fade-up {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
 }
