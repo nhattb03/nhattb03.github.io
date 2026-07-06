@@ -137,7 +137,7 @@ export default function Hero() {
             <a
               href={t.hero.cvLink}
               id="hero-cta-cv"
-              download
+              download = "CV_Tran Thi Bich Nha.pdf"
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-btn font-inter text-sm font-medium border transition-all duration-200"
               style={{
                 borderColor: 'var(--accent)',
